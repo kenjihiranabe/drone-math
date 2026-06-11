@@ -1,5 +1,5 @@
 <!-- GitHubとKaTeXの両方で \bm を有効にするマクロ定義 -->
-$$ \gdef\bm[#1]{\boldsymbol{#1}} $$
+$\gdef\bm#1{\boldsymbol{#1}}$
 
 # 論文「飛行形ドローンのモータ故障問題」数式ウォークスルー
 

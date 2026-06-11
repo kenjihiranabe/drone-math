@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 def replace_bm(text: str) -> str:
-    return text.replace(r"\\bm{", r"\\boldsymbol{")
+    return text.replace(r"\bm{", r"\boldsymbol{")
 
 
 def main() -> int:

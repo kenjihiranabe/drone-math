@@ -19,8 +19,8 @@ https://github.com/toppers/hakoniwa-px4sim/blob/main/drone_physics/README-ja.md
 
 >[!NOTE]
 >1. 岡崎・磯貝の定理（式 32）を導く過程の、数学（特に回転とその時間微分の扱い）を詳しく解説しました。
->2. 上記定理の「一般化座標＋仮想仕事の原理＋静止座標系」を基準にした導出を、より単純な「ニュートン・オイラーの運動方程式＋動座標系」を基準にした導出のみで説明してみました。 $\boldsymbol{\omega}_{\dot{\boldsymbol{x}}}\rightarrow \boldsymbol{\Omega}_{\dot{\boldsymbol{x}}}$ 
->3. これによって、オイラー角のうちヨー角（$\psi$）のみを分離できることもはっきり分かりました。$\boldsymbol{\Omega}_{\dot{\boldsymbol{x}}} = \boldsymbol{\Omega}_{\dot{\boldsymbol{x}}}(\theta, \phi)$
+>2. 上記定理の「一般化座標＋仮想仕事の原理＋静止座標系」を基準にした導出を、より単純な「ニュートン・オイラーの運動方程式＋動座標系」を基準にした導出のみで説明してみました。 $\bm{\omega}_{\dot{\bm{x}}}\rightarrow \bm{\Omega}_{\dot{\bm{x}}}$ 
+>3. これによって、オイラー角のうちヨー角（$\psi$）のみを分離できることもはっきり分かりました。$\bm{\Omega}_{\dot{\bm{x}}} = \bm{\Omega}_{\dot{\bm{x}}}(\theta, \phi)$
 >4. その過程で、定理の式を具体的な行列成分として書き出した。
 
 ---
